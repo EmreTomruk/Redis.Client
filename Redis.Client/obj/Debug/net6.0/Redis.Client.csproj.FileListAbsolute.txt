@@ -1,0 +1,12 @@
+/Users/Lenovo/Desktop/repo/Redis.Client/bin/Debug/net6.0/Redis.Client.deps.json
+/Users/Lenovo/Desktop/repo/Redis.Client/bin/Debug/net6.0/Redis.Client.dll
+/Users/Lenovo/Desktop/repo/Redis.Client/bin/Debug/net6.0/Redis.Client.pdb
+/Users/Lenovo/Desktop/repo/Redis.Client/obj/Debug/net6.0/Redis.Client.csproj.AssemblyReference.cache
+/Users/Lenovo/Desktop/repo/Redis.Client/obj/Debug/net6.0/Redis.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lenovo/Desktop/repo/Redis.Client/obj/Debug/net6.0/Redis.Client.AssemblyInfoInputs.cache
+/Users/Lenovo/Desktop/repo/Redis.Client/obj/Debug/net6.0/Redis.Client.AssemblyInfo.cs
+/Users/Lenovo/Desktop/repo/Redis.Client/obj/Debug/net6.0/Redis.Client.csproj.CoreCompileInputs.cache
+/Users/Lenovo/Desktop/repo/Redis.Client/obj/Debug/net6.0/Redis.Client.dll
+/Users/Lenovo/Desktop/repo/Redis.Client/obj/Debug/net6.0/refint/Redis.Client.dll
+/Users/Lenovo/Desktop/repo/Redis.Client/obj/Debug/net6.0/Redis.Client.pdb
+/Users/Lenovo/Desktop/repo/Redis.Client/obj/Debug/net6.0/ref/Redis.Client.dll
